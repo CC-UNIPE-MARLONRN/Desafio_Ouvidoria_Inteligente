@@ -1,0 +1,242 @@
+[
+  {
+    "id": "M001",
+    "data": "2025-01-02",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Moradores da Vila do Sol denunciaram a presença de vários buracos na rua em frente à escola municipal, onde crianças e pais passam diariamente. Os veículos trafegam em velocidade reduzida e os pedestres relatam risco constante de queda, especialmente no trecho mais escuro da via, que também fica sem sinalização adequada durante a noite."
+  },
+  {
+    "id": "M002",
+    "data": "2025-01-04",
+    "categoria_oficial": "saude",
+    "texto": "A unidade básica de saúde do bairro registrou falta de medicamentos essenciais e filas longas para consultas de rotina. Familiares relataram que pacientes com hipertensão e diabetes precisam esperar horas para atendimento e, em alguns dias, saem da unidade sem receber o remédio solicitado."
+  },
+  {
+    "id": "M003",
+    "data": "2025-01-05",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A avenida Brasil está em péssimas condições após semanas de chuvas, com trechos de asfalto esburacado e pedras soltas no meio da pista. Motoristas reclamam de riscos de acidente e pedestres apontam que o problema é mais grave perto do cruzamento central, onde a falta de sinalização aumenta o perigo para a comunidade."
+  },
+  {
+    "id": "M004",
+    "data": "2025-01-06",
+    "categoria_oficial": "seguranca",
+    "texto": "Moradores do bairro São José relataram aumento de assaltos próximos ao mercado municipal e pouca iluminação em ruas laterais. A população pede reforço policial nos horários de pico e instalação de postes funcionando, argumentando que a vulnerabilidade da região tem gerado medo e insegurança entre comerciantes e moradores."
+  },
+  {
+    "id": "M005",
+    "data": "2025-01-08",
+    "categoria_oficial": "educacao",
+    "texto": "Pais da escola municipal da região central afirmam que a unidade está sem merenda escolar há mais de uma semana e que a turma do quinto ano está com falta de professor titular. Estudantes e responsáveis apontam que a falta de estrutura compromete o aprendizado e gera desgaste para a comunidade escolar."
+  },
+  {
+    "id": "M006",
+    "data": "2025-01-09",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O córrego do bairro está acumulando lixo doméstico e resíduos de construção próximo à margem, provocando mau cheiro e atraindo insetos. Moradores denunciam que a água parada facilita a proliferação de mosquitos e representa risco à saúde da população, especialmente crianças e idosos que frequentam a área."
+  },
+  {
+    "id": "M007",
+    "data": "2025-01-10",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A calçada da esquina da praça principal está quebrada e esburacada, dificultando o deslocamento de cadeirantes e pessoas com mobilidade reduzida. Vendedores e moradores cobram manutenção urgente, pois o trecho também é usado por estudantes e idosos que passam pela região diariamente."
+  },
+  {
+    "id": "M008",
+    "data": "2025-01-12",
+    "categoria_oficial": "saude",
+    "texto": "O posto de saúde da cidade está funcionando sem médico em alguns turnos e com filas muito longas para atendimento de rotina. Usuários dizem que para marcar uma consulta simples é necessário esperar semanas, enquanto pacientes graves relatam insegurança diante da demora na avaliação."
+  },
+  {
+    "id": "M009",
+    "data": "2025-01-14",
+    "categoria_oficial": "seguranca",
+    "texto": "A região da rua das Flores tem sido alvo de barulho excessivo de motos após as 22h, e moradores afirmam que a insegurança aumentou nos últimos meses. Além de perturbação do sono, há relatos de suspeitas de roubo e de pessoas circulando pela área sem vigilância, o que agravou o medo da comunidade."
+  },
+  {
+    "id": "M010",
+    "data": "2025-01-15",
+    "categoria_oficial": "educacao",
+    "texto": "A escola central do município enfrenta problema grave de superlotação e falta de cadeiras em salas de aula. Professores relataram que alguns estudantes ficam sem lugar para sentar e que o ambiente prejudica a concentração e o bem-estar, além de colocar em risco a qualidade do ensino."
+  },
+  {
+    "id": "M011",
+    "data": "2025-01-16",
+    "categoria_oficial": "saude",
+    "texto": "Pacientes do posto de saúde do bairro esperam por horas para receber atendimento médico, e a demora é especialmente crítica em casos de urgência simples. Familiares denunciam a falta de organização no setor de triagem, o que aumenta a frustração e a sensação de abandono por parte da população."
+  },
+  {
+    "id": "M012",
+    "data": "2025-01-18",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Uma árvore caiu em frente ao parque municipal e bloqueou parcialmente a calçada, enquanto o esgoto da região ficou entupido com folhas e resíduos. Moradores apontam que o cenário representa risco de queda e contaminação do ambiente, exigindo ação imediata da prefeitura para manutenção e limpeza."
+  },
+  {
+    "id": "M013",
+    "data": "2025-01-19",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A praça do bairro ficou parcialmente sem iluminação depois que uma lâmpada foi danificada e não foi substituída. Moradores afirmam que os trechos escuros aumentam a sensação de insegurança à noite e dificultam o uso do espaço por crianças, idosos e praticantes de atividade física."
+  },
+  {
+    "id": "M014",
+    "data": "2025-01-21",
+    "categoria_oficial": "saude",
+    "texto": "Usuários da unidade de saúde de referência reclamam da ausência de enfermagem em alguns turnos e da demora para marcar consultas. Muitos moradores precisam viajar para outra região para conseguir atendimento, o que aumenta os custos e torna o processo mais difícil para famílias de baixa renda."
+  },
+  {
+    "id": "M015",
+    "data": "2025-01-22",
+    "categoria_oficial": "seguranca",
+    "texto": "Ativistas do bairro denunciaram a presença de criminosos circulando pela feira central durante o período de pico de movimento, com pouca atuação policial. Comerciantes relatam que os furtos aumentaram e exigem reforço de patrulhamento, além de medidas de vigilância da área."
+  },
+  {
+    "id": "M016",
+    "data": "2025-01-23",
+    "categoria_oficial": "educacao",
+    "texto": "Estudantes da rede pública reclamam da falta de acesso à internet e computadores para acompanhar as aulas remotas. Professores informaram que muitos alunos não conseguem participar das atividades digitais por limitações de infraestrutura, o que amplia a desigualdade no processo de ensino-aprendizagem."
+  },
+  {
+    "id": "M017",
+    "data": "2025-01-25",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A avenida principal foi apontada como crítica pela população por causa do asfalto esburacado em vários trechos. Motoristas dizem que os buracos afetam a direção, provocam pequenos acidentes e aumentam o risco para pedestres, especialmente em horários de maior circulação."
+  },
+  {
+    "id": "M018",
+    "data": "2025-01-27",
+    "categoria_oficial": "meio ambiente",
+    "texto": "A ausência de drenagem no trecho próximo ao mercado gerou poças de água parada e mau cheiro constante. Moradores afirmam que a situação piora após as chuvas e exige limpeza imediata, porque o acúmulo de sujeira favorece a proliferação de mosquitos e prejudica a saúde coletiva."
+  },
+  {
+    "id": "M019",
+    "data": "2025-01-29",
+    "categoria_oficial": "saude",
+    "texto": "A unidade de saúde do bairro vive um quadro crítico de demora no atendimento e insuficiência de profissionais. Pacientes relatam filas intermináveis, pouca medicação e ausência de apoio psicológico, enquanto idosos e crianças passam por longas esperas em condições precárias. A população afirma que o posto também enfrenta falta de água em determinados horários e problemas de limpeza, o que reforça a percepção de abandono da estrutura pública."
+  },
+  {
+    "id": "M020",
+    "data": "2025-02-01",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Uma vala aberta na rua do Conjunto Nova Esperança ficou sem sinalização por vários dias, colocando em risco motoristas e pedestres. Os moradores denunciaram que, apesar de o problema ser visível há semanas, a prefeitura ainda não instalou barricadas nem fez a contenção do trecho."
+  },
+  {
+    "id": "M021",
+    "data": "2025-02-02",
+    "categoria_oficial": "saude",
+    "texto": "A população do bairro Jardim das Flores reclama da falta de medicamentos para hipertensão e diabetes na unidade básica de saúde. Pacientes afirmam que as receitas são repetidas sem que haja reposição do estoque, o que piora o tratamento contínuo e gera preocupação entre as famílias."
+  },
+  {
+    "id": "M022",
+    "data": "2025-02-04",
+    "categoria_oficial": "saude",
+    "texto": "A equipe do PSF do bairro foi reduzida e usuários relatam ausência de médicos durante grande parte da semana. Pacientes com queixas simples e urgentes passam horas em fila e alegam não receber atendimento adequado, gerando desgaste e insatisfação generalizada na comunidade."
+  },
+  {
+    "id": "M023",
+    "data": "2025-02-05",
+    "categoria_oficial": "seguranca",
+    "texto": "Motoristas e moradores da região escolar denunciaram excesso de velocidade em vias próximas à escola estadual, especialmente durante a entrada e saída dos alunos. A falta de radares, sinalização e fiscalização tem aumentado a sensação de risco para crianças e pais, que pedem medidas mais rígidas de controle do trânsito."
+  },
+  {
+    "id": "M024",
+    "data": "2025-02-07",
+    "categoria_oficial": "educacao",
+    "texto": "A escola estadual central está em situação crítica por causa da falta de ventiladores, salas em mau estado e quadro de professores insuficiente. Alunos relatam calor excessivo nas salas e dificuldades na rotina escolar, enquanto responsáveis questionam a ausência de manutenção do espaço e o impacto direto na qualidade do ensino."
+  },
+  {
+    "id": "M025",
+    "data": "2025-02-08",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Empreiteiros e moradores denunciaram o descarte irregular de restos de construção próximo ao rio municipal. O acúmulo de materiais como cimento, tijolos e placas provocou contaminação visual e ambiental, além de riscos de acidentes e prejuízos à fauna e à qualidade da água local."
+  },
+  {
+    "id": "M026",
+    "data": "2025-02-10",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A avenida principal continua sem sinalização eficaz para pedestres e motoristas, com trechos sem faixa de travessia e sem semáforo em pontos de maior risco. Usuários afirmam que a ausência de sinalização aumenta a chance de colisões e torna o deslocamento da região muito perigoso."
+  },
+  {
+    "id": "M027",
+    "data": "2025-02-11",
+    "categoria_oficial": "saude",
+    "texto": "A demora para atendimento médico no posto central tem se tornado rotina, e muitos pacientes relatam esperas de mais de quatro horas para consultas simples. A escassez de profissionais e a falta de remédios essenciais deixam a população preocupada, especialmente famílias com crianças, idosos e gestantes que dependem do serviço público."
+  },
+  {
+    "id": "M028",
+    "data": "2025-02-12",
+    "categoria_oficial": "seguranca",
+    "texto": "Moradores da região central afirmam que não há patrulhamento adequado à noite e que ameaças e assédio em frente à praça têm aumentado. As pessoas relatam medo de caminhar sozinhas após o anoitecer e cobram maior presença de agentes de segurança e iluminação pública no bairro."
+  },
+  {
+    "id": "M029",
+    "data": "2025-02-14",
+    "categoria_oficial": "educacao",
+    "texto": "Pais e alunos da escola municipal denunciaram que a merenda escolar está em baixa qualidade e que muitos estudantes não recebem uniformes adequados para o ano letivo. A comunidade pede atenção das autoridades, dizendo que a situação afeta a rotina escolar e o bem-estar dos crianças e adolescentes."
+  },
+  {
+    "id": "M030",
+    "data": "2025-02-15",
+    "categoria_oficial": "seguranca",
+    "texto": "A feira livre do bairro vem registrando aumento de furtos e assaltos no turno da noite, com pouca presença policial no local. Comerciantes pedem medidas urgentes de segurança, alegando que a vulnerabilidade da área afetou as vendas e levou muitos clientes a evitarem o espaço."
+  },
+  {
+    "id": "M031",
+    "data": "2025-02-16",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Vários postes da praça central estão sem luz depois que uma lâmpada foi queimada e não houve substituição. Moradores relataram que o problema ficou mais visível nos últimos dias e que a falta de iluminação gera preocupação para mulheres, idosos e trabalhadores que utilizam o espaço à noite."
+  },
+  {
+    "id": "M032",
+    "data": "2025-02-18",
+    "categoria_oficial": "saude",
+    "texto": "O posto de saúde da zona norte está sem estoque de remédios básicos e com agendamento de consultas atrasado por vários dias. Usuários afirmam que a unidade falha em atender necessidades simples e que a demora compromete o cuidado de pessoas em tratamento contínuo."
+  },
+  {
+    "id": "M033",
+    "data": "2025-02-19",
+    "categoria_oficial": "saude",
+    "texto": "A população do bairro Nova Cidade relata que o PSF não atende corretamente a demanda local, com excesso de filas, ausência de médicos e atendimento insuficiente em casos simples. O problema tem se repetido por meses e gerado descontentamento em famílias que dependem do serviço público para cuidados básicos."
+  },
+  {
+    "id": "M034",
+    "data": "2025-02-20",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Um bueiro entupido na rua dos Pinheiros está acumulando água suja e detritos próximos às residências. Moradores denunciam que o mau cheiro se intensifica após as chuvas, prejudicando a qualidade de vida do bairro e elevando o risco de doenças relacionadas à água acumulada."
+  },
+  {
+    "id": "M035",
+    "data": "2025-02-21",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A avenida principal está em péssimas condições e os buracos têm se multiplicado nas últimas semanas, deixando o trecho perigoso para pedestres, ciclistas e motoristas. O trânsito fica lento e a comunidade reclama que a prefeitura não realiza manutenção adequada, apesar dos pedidos que vêm sendo feitos por moradores e trabalhadores da região."
+  },
+  {
+    "id": "M036",
+    "data": "2025-02-23",
+    "categoria_oficial": "educacao",
+    "texto": "Professores da escola pública municipal denunciaram falta de ventilação em salas de aula e ausência de materiais básicos para o início do ano letivo. Os alunos estudam em ambientes abafados, e os responsáveis pedem melhorias imediatas para preservar a saúde e a qualidade de ensino da instituição."
+  },
+  {
+    "id": "M037",
+    "data": "2025-02-24",
+    "categoria_oficial": "seguranca",
+    "texto": "O bairro central tem vivido um aumento de furtos, assaltos e presença de usuários de drogas em pontos de encontro frequentes. Moradores afirmam que a sensação de insegurança cresceu, especialmente à noite, e cobram patrulhamento mais frequente, iluminação adequada e ações mais visíveis de prevenção por parte do município."
+  },
+  {
+    "id": "M038",
+    "data": "2025-02-27",
+    "categoria_oficial": "meio ambiente",
+    "texto": "A coleta de lixo no bairro passou a ser irregular e vários sacos plásticos e resíduos domésticos ficaram espalhados pelas ruas. Moradores reclamam do acúmulo de sujeira, do mau cheiro e do risco à higiene pública, pedindo uma solução urgente para o problema de gestão de resíduos."
+  },
+  {
+    "id": "M039",
+    "data": "2025-02-28",
+    "categoria_oficial": "saude",
+    "texto": "No posto da Vila Nova, a demora na consulta é recorrente e o atendimento está insuficiente para a demanda da região. Vários pacientes relatam longas esperas, ausência de medicamentos e dificuldade para agendar retornos, especialmente idosos, gestantes e crianças, que dependem diretamente do serviço público para manutenção da saúde."
+  },
+  {
+    "id": "M040",
+    "data": "2025-03-01",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Moradores do conjunto habitacional reclamam da manutenção precária do asfalto, que está repleto de buracos e oferece risco para pedestres e veículos. A comunidade pede reparos imediatos e sinalização de segurança, pois o trecho é muito utilizado por crianças, idosos e trabalhadores da região."
+  }
+]
